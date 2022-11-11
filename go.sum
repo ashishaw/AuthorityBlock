@@ -74,6 +74,8 @@ github.com/inconshreveable/log15 v0.0.0-20171019012758-0decfc6c20d9 h1:LmBUkXNSS
 github.com/inconshreveable/log15 v0.0.0-20171019012758-0decfc6c20d9/go.mod h1:cOaXtrgN4ScfRrD9Bre7U1thNq5RtJ8ZoP4iXVGRj6o=
 github.com/jackpal/go-nat-pmp v1.0.1 h1:i0LektDkO1QlrTm/cSuP+PyBCDnYvjPLGl4LdWEMiaA=
 github.com/jackpal/go-nat-pmp v1.0.1/go.mod h1:QPH045xvCAeXUZOxsnwmrtiCoxIr9eob+4orBN1SBKc=
+github.com/jteeuwen/go-bindata v3.0.7+incompatible h1:91Uy4d9SYVr1kyTJ15wJsog+esAZZl7JmEfTkwmhJts=
+github.com/jteeuwen/go-bindata v3.0.7+incompatible/go.mod h1:JVvhzYOiGBnFSYRyV00iY8q7/0PThjIYav1p9h5dmKs=
 github.com/mattn/go-colorable v0.0.9 h1:UVL0vNpWh04HeJXV0KLcaT7r06gOH2l4OW6ddYRUIY4=
 github.com/mattn/go-colorable v0.0.9/go.mod h1:9vuHe8Xs5qXnSaW/c/ABM9alt+Vo+STaOChaDxuIBZU=
 github.com/mattn/go-isatty v0.0.3 h1:ns/ykhmWi7G9O+8a448SecJU3nSMBXJfqQkl0upE1jI=

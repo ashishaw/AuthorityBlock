@@ -24,6 +24,7 @@ require (
 	github.com/huin/goupnp v0.0.0-20171109214107-dceda08e705b // indirect
 	github.com/inconshreveable/log15 v0.0.0-20171019012758-0decfc6c20d9
 	github.com/jackpal/go-nat-pmp v1.0.1 // indirect
+	github.com/jteeuwen/go-bindata v3.0.7+incompatible // indirect
 	github.com/mattn/go-colorable v0.0.9 // indirect
 	github.com/mattn/go-isatty v0.0.3
 	github.com/mattn/go-runewidth v0.0.4 // indirect

@@ -1,4 +1,4 @@
-PACKAGE = github.com/vechain/ablock
+PACKAGE = github.com/ashishaw/authorityblock/ablock
 
 GIT_COMMIT = $(shell git --no-pager log --pretty="%h" -n 1)
 GIT_TAG = $(shell git tag -l --points-at HEAD)
